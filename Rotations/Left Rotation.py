@@ -1,4 +1,4 @@
-#Basic Left Rotate Array by 1 position
+#Basic Left Rotation of an Array by 1 position
 arr = list(map(int, input("Enter the elements using space: ").split()))
 first = arr[0]
 for i in range(len(arr)):
