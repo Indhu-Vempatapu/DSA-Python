@@ -3,6 +3,7 @@ arr = list(map(int, input("Enter the elements using space: ").split()))
 first = arr[0]
 for i in range(len(arr)):
   arr[i] = arr[i+1]
+arr[-1] = first
 print(arr)
 
 #Example: 
