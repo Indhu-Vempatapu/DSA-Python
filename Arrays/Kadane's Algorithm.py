@@ -10,3 +10,9 @@ print(max_sum)
 #Example 
 #Input: [-2 1 -3 4 -1 2 1 -5 4] 
 #Output: 6 
+
+#Input: [5,4,-1,7,8]
+#Output: 23
+
+#Input: [-5,-1,-8,-9]
+#Output: -1
